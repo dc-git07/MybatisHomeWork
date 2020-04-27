@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87e68476-05b0-4e40-b1bf-bb681e7821d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mybatis_start@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mybatis_start@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mybatis_start@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis_start: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mybatis_start@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis_start: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\installsoft\repository" />
+        <option name="mavenHome" value="D:/installsoft/maven/apache-maven-3.6.1" />
+        <option name="pluginUpdatePolicy" value="DO_NOT_UPDATE" />
+        <option name="userSettingsFile" value="D:\installsoft\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectId" id="1UhTKFgFuOYilZrHDHKatzOWBZ3" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis-3-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3104126" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou" />
+      <recent name="$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/config" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lagou.utils" />
+      <recent name="com.lagou.config" />
+      <recent name="com.lagou.sqlSession" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="IPersistenceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IPersistenceTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:mybatis_start@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:mybatis_start@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7a55ba0d" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87e68476-05b0-4e40-b1bf-bb681e7821d9" name="Default Changelist" comment="" />
+      <created>1575807761916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575807761916</updated>
+      <workItem from="1575807763300" duration="3081000" />
+      <workItem from="1575812553825" duration="3769000" />
+      <workItem from="1575816989696" duration="23573000" />
+      <workItem from="1575890123656" duration="6180000" />
+      <workItem from="1575938678645" duration="11605000" />
+      <workItem from="1587788814718" duration="14862000" />
+      <workItem from="1587863114353" duration="3619000" />
+      <workItem from="1587888188139" duration="88000" />
+      <workItem from="1587888407200" duration="16455000" />
+      <workItem from="1587949517574" duration="5255000" />
+      <workItem from="1587983735096" duration="4744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Notifications" timestamp="1587957276045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587898772337" />
+    <state x="552" y="181" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1587957276045" />
+    <state x="399" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587797773605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="399" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587797773605" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1587894279047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587894279047" />
+    <state width="491" height="466" key="DebuggerActiveHint" timestamp="1587904163716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="465" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587899466838" />
+    <state width="491" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1587904163716" />
+    <state x="182" y="245" key="FileChooserDialogImpl" timestamp="1587957952415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="182" y="245" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587898760330" />
+    <state x="182" y="245" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587957952415" />
+    <state width="1877" height="215" key="GridCell.Tab.0.bottom" timestamp="1587988740419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587901864608" />
+    <state width="1877" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587988740419" />
+    <state width="1877" height="215" key="GridCell.Tab.0.center" timestamp="1587988740419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587901864608" />
+    <state width="1877" height="215" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587988740419" />
+    <state width="1877" height="215" key="GridCell.Tab.0.left" timestamp="1587988740419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587901864607" />
+    <state width="1877" height="215" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587988740419" />
+    <state width="1877" height="215" key="GridCell.Tab.0.right" timestamp="1587988740419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587901864608" />
+    <state width="1877" height="215" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587988740419" />
+    <state width="1877" height="215" key="GridCell.Tab.1.bottom" timestamp="1587988740419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587901865676" />
+    <state width="1877" height="215" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587988740419" />
+    <state width="1877" height="215" key="GridCell.Tab.1.center" timestamp="1587988740419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587901865675" />
+    <state width="1877" height="215" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587988740419" />
+    <state width="1877" height="215" key="GridCell.Tab.1.left" timestamp="1587988740419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587901865675" />
+    <state width="1877" height="215" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587988740419" />
+    <state width="1877" height="215" key="GridCell.Tab.1.right" timestamp="1587988740419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587901865675" />
+    <state width="1877" height="215" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587988740419" />
+    <state x="451" y="63" width="1215" height="846" key="SettingsEditor" timestamp="1587957953578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="451" y="63" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587898764496" />
+    <state x="451" y="63" width="1215" height="846" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587957953578" />
+    <state x="781" y="375" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1587804482175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="375" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1587804482175" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1587983742503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587983742503" />
+    <state x="334" y="223" key="new project wizard" timestamp="1587810955445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="223" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587810955445" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/test/IPersistenceTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/BellSoft/LibericaJDK-11/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java</url>
+          <line>576</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/test/IPersistenceTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/simpleExecutor.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/simpleExecutor.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/simpleExecutor.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/simpleExecutor.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/simpleExecutor.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/simpleExecutor.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/simpleExecutor.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/simpleExecutor.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/test/IPersistenceTest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/config/XMLConfigBuilder.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/config/XMLMapperBuilder.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/config/XMLMapperBuilder.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/config/XMLConfigBuilder.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/test/IPersistenceTest.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/config/XMLConfigBuilder.java</url>
+          <line>26</line>
+          <properties class="com.lagou.config.XMLConfigBuilder" method="parseConfig">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSessionFactory.java</url>
+          <line>14</line>
+          <properties class="com.lagou.sqlSession.DefaultSqlSessionFactory" method="openSession">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

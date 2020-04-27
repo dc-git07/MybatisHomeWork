@@ -1,0 +1,21 @@
+<configuration>
+
+    <!--给实体类的全限定类名给别名-->
+<!--    <typeAliases>-->
+<!--        &lt;!&ndash;给单独的实体起别名&ndash;&gt;-->
+<!--        &lt;!&ndash;  <typeAlias type="com.lagou.pojo.User" alias="user"></typeAlias>&ndash;&gt;-->
+<!--        &lt;!&ndash;批量起别名：该包下所有的类的本身的类名：别名还不区分大小写&ndash;&gt;-->
+<!--        <package name="com.lagou.pojo"/>-->
+<!--    </typeAliases>-->
+        <!--数据库配置信息-->
+    <dataSource>
+        <property name="driverClass" value="com.mysql.jdbc.Driver"></property>
+        <property name="jdbcUrl" value="jdbc:mysql:///mybatis_start"></property>
+        <property name="username" value="root"></property>
+        <property name="password" value="root"></property>
+    </dataSource>
+
+    <!--存放mapper.xml的全路径-->
+    <mapper resource="UserMapper.xml"></mapper>
+
+</configuration>
